@@ -1,5 +1,6 @@
 # MovieInfo
 it is a Tkinter based Application it is useful for Scraping the Details of A Movie
-<a>
-<img alt="Image of insights" src="https://github.com/gayanvoice/insights/blob/master/graph/373383893/small/week.png" height="100">
-</a>
+</a><p align="center">
+  <img alt="OpenDevin Logo" src="d" width="150" />
+</p>
+
